@@ -51,7 +51,7 @@ Testa integração com OpenAI gerando nomes fictícios de produtos para ecommerc
 
 ### 1. Clonar o repositório
 
-git clone https://github.com/seuusuario/seurepositorio.git
+git clone (https://github.com/calebewerneckcouto/OpenaiApiKeyJava.git)
 cd seurepositorio
 2. Definir a variável de ambiente da API da OpenAI
 No terminal:
